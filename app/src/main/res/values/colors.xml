@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="binanceyellow">#FCD535</color>
+    <color name="binancered">#F6465D</color>
+    <color name="purple_700">#4341cc</color>
+    <color name="teal_200">#4341cc</color>
+    <color name="teal_700">#4341cc</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mywhite">#F4F4F4</color>
+    <color name="mytheme">#4341cc</color>
+    <color name="mygray">#1A1919</color>
+    <color name="mylightgray">#2E2D2D</color>
+    <color name="mygreen">#2cb34a</color>
+    <color name="myred">#F11818</color>
+    <color name="dimlightgray">#1A1919</color>
+</resources>
